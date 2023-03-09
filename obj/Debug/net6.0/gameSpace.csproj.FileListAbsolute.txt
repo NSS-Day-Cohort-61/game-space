@@ -1,0 +1,15 @@
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/bin/Debug/net6.0/gameSpace
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/bin/Debug/net6.0/gameSpace.deps.json
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/bin/Debug/net6.0/gameSpace.runtimeconfig.json
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/bin/Debug/net6.0/gameSpace.dll
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/bin/Debug/net6.0/gameSpace.pdb
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.csproj.AssemblyReference.cache
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.AssemblyInfoInputs.cache
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.AssemblyInfo.cs
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.csproj.CoreCompileInputs.cache
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.dll
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/refint/gameSpace.dll
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.pdb
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/gameSpace.genruntimeconfig.cache
+/Users/val/Code/Tutorials/nss-c-sharp/gameSpace/obj/Debug/net6.0/ref/gameSpace.dll
